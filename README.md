@@ -15,6 +15,9 @@ Tal Malchi, Yuval Ben Simhon
 *In case of single elevator:*
 First of all , we will have 4 array lists, with length as the number of the floors of the building.
 
+<img width="284" alt="exo arrays" src="https://user-images.githubusercontent.com/93086649/141955098-3a6081dc-050a-41b3-b9fa-f56a875e9fb3.PNG">
+
+
 ***Elevator_route_function:***
 - The elevator move over all the floors in the ‘current_up’ arraylist.
 - Once it will arrive to the upper floor in the ‘current_up’ arraylist. It copy the 
@@ -66,3 +69,5 @@ stop in this floor).
 - write the entire route, and then do the route
 **In case of multiple elevator:**
 same as we wrote above
+
+<img width="485" alt="uml" src="https://user-images.githubusercontent.com/93086649/141955029-2753bcdc-2138-4346-bd22-97c4aaa79f04.PNG">
